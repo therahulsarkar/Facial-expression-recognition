@@ -1,1 +1,1 @@
-## Facial-expression-recognition using face-api.js 
+## Facial expression recognition using face-api.js 
